@@ -1,0 +1,9 @@
+table, th, tr, td{
+  border: Solid 1px Black;
+}
+
+body
+{
+  width:  80%;
+  Margin: auto;
+}
